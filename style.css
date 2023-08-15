@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(191, 240, 194);
+  }
+  
+  h1 {
+    color: rgb(19, 70, 8);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  button{
+      width: 80px;
+      height: 30px;
+      border-radius: 10px;
+      border: none;
+  }
+
+  #a{
+    width: 80px;
+      height: 30px;
+      border-radius: 10px;
+      border: none;
+  }
+
+  input{
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+  }
